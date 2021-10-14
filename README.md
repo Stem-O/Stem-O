@@ -45,8 +45,8 @@
 ✔ Currently Developing our main **homepage website** <br>
 ✔ Currently learning about **Fullstack** and **DSA** 🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask us anything about **Math**, **Science**, **Web-Development** etc..  😉<br>
-✔ Fun fact : **Life is hard but life is harder without you yieee.** 😎<br><br><br><br>
+✔ Ask us anything about **Math**, **Science**, **Web-Development** etc.. 😉<br>
+✔ Fun fact : **Life is hard but life is harder without you yiee.** 😂<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Our working tools...***
