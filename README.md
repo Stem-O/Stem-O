@@ -85,11 +85,11 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Stem-O&theme=dracula&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=FonderElite&theme=dracula&no-bg=true" />
 
 
 -----
-Credits: [Linux God](https://github.com/torvalds)
+Credits: [Linux Torvalds](https://github.com/torvalds)
 
 
 
