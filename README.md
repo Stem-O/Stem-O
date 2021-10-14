@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Year-11-blue" />
   <img src="https://img.shields.io/badge/Focus-WebDevlopment-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Philippines-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Filipino-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,We are Stem-O </h1>
