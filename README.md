@@ -41,7 +41,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Us ....***
 
-✔ CallUs: ***Software Engineers*** or ***Lasallians*** 😊 <br>
+✔ CallUs: ***Junior Developers*** or ***Lasallians*** 😊 <br>
 ✔ Currently Developing our main **homepage website** <br>
 ✔ Currently learning about **Fullstack** and **DSA** 🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
