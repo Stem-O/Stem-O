@@ -8,9 +8,9 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Year-11-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web-Devlopment-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Philipphines-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-WebDevlopment-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Philippines-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
