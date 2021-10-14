@@ -77,7 +77,7 @@
 
 
 -----
-Credits: [Linux Torvalds](https://github.com/torvalds)
+:octocat: **Credits**: [Linux Torvalds](https://github.com/torvalds)
 
 
 
