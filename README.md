@@ -89,7 +89,7 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits: [Linux God](https://github.com/torvalds)
 
 
 
