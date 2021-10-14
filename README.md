@@ -29,9 +29,9 @@
 
 <p align="center">
   <em>
-    Hello, We are Stem-O <b>1st year Senior Highschool</b> currently enrolled in <a href="https://usls.edu.ph/"> <b>University Of St. Lasalle Integrated School</b> from Philippines(The archipelago with 7.107 islands</a>. <br>
-    <b>Passionate self-learners</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and  <b>Software Engineers</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Little Copypasting Skill</b> and always looking to find new projects to do.
+    Hello, We are Stem-O <b>1st year Senior Highschool</b> currently enrolled in <a href="https://usls.edu.ph/"> <b>University Of St. Lasalle Integrated School</b> from Philippines</a>. <br>
+    <b>Passionate self-learners</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and  <b>Software Engineers</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>Obsessed</b>
+    with <b>making innovative works</b> and always looking to find new projects to do.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
