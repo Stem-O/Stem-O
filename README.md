@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://img.freepik.com/free-vector/stem-infographic-education_10532-76.jpg?size=626&ext=jpg" height="200"/>
 </p>
 <br>
 
