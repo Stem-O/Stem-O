@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Filipino-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,We are Stem-O </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,We are Stem 11-O </h1>
 <h3 align="center">Software Engineers | MyStackOverFlow Copypastas </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/stem-o" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
