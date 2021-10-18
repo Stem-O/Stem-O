@@ -44,7 +44,7 @@
 ✔ CallUs: ***Junior Developers*** or ***Lasallians*** 😊 <br>
 ✔ Currently Developing our main **homepage website** <br>
 ✔ Currently learning about **Fullstack** and **DSA** 🥰<br>
-✔ We're looking forward to collaborate with any **Open - Source data science projects**<br>
+✔ We're looking forward to collaborate with any **Open - Source projects**<br>
 ✔ Ask us anything about **Math**, **Science**, **Web-Development** etc.. 😉<br>
 ✔ Fun fact : **Life is hard but life is harder without you yiee.** 😂<br><br><br><br>
  
