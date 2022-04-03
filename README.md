@@ -17,9 +17,9 @@
 <h3 align="center">Software Engineers | MyStackOverFlow Copypastas </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/#" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/#" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/#" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/#" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
  <a href = "mailto: null@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
